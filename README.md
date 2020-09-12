@@ -1,0 +1,2 @@
+# Predicting-Taxi-Fares-with-Random-Forests
+Built Used Regression trees and Random Forests to predict the value of fares and tips based on location, date and time. • The dataset used in this project is a sample from the complete 2013 NYC taxi data, which was originally obtained and published by Chris Whong. Data manipulation with dplyr and plotting the predicted fare with ggplot2. Gained extended experience with the packages dplyr, ggplot2 and randomForests.
